@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "saul ACTUALIZADO",
+      "empresa": "zoom grafic",
+      "email": "barriossaul@gmail.com",
+      "telefono": "944356564",
+      "notas": "socio ",
+      "id": 1
+    },
+    {
+      "nombre": "Julio",
+      "empresa": "cmd",
+      "email": "barrios@gmail.com",
+      "telefono": "43534534345",
+      "notas": "fffbbc",
+      "id": 2
+    },
+    {
+      "nombre": "Daniel",
+      "empresa": "centrum",
+      "email": "degs@icloud.com",
+      "telefono": "545154544",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
