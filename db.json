@@ -1,14 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "saul ACTUALIZADO",
-      "empresa": "zoom grafic",
-      "email": "barriossaul@gmail.com",
-      "telefono": "944356564",
-      "notas": "socio ",
-      "id": 1
-    },
-    {
       "nombre": "Julio",
       "empresa": "cmd",
       "email": "barrios@gmail.com",
